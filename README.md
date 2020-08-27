@@ -1,7 +1,7 @@
 # Sentry
 How to setup Sentry.io (open source) server in Docker Compose
 
-![Sentry Architecture](/Users/ramin/Documents/GitHub/sentry-setup/img/sentry_arch.png)
+![Sentry Architecture](./img/sentry_arch.png)
 
 ## Docker Compose
 
