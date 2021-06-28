@@ -155,7 +155,7 @@ docker-compose run --rm sentry-base upgrade
 And **create** an initial user, if you need.
 
 
-#### Service Start 
+### Service Start 
 
 ```bash
 docker-compose up -d
