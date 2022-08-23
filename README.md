@@ -162,3 +162,8 @@ docker-compose up -d
 ```
 
 And open `http://localhost:9000`
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
