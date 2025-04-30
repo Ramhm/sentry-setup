@@ -41,6 +41,8 @@ services:
       - sentry
     volumes:
       - './data/sentry/sentry:/var/lib/sentry/files'
+    environment:
+      - SENTRY_EVENT_RETENTION_DAYS=25 #7   # Adjust the retention period as needed      
 
   sentry-cron:
     image: sentry:latest
